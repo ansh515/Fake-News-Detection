@@ -1,0 +1,62 @@
+Gaza / West Bank charter flight claim
+A plane arrived in South Africa carrying over 150 Palestinians; the country’s Foreign Minister says this is part of a broader agenda to clear out Gaza and the West Bank via chartered flights. 
+AP News
+
+Why it’s useful: clearly head-lining claim that invites verification of actors, numbers, motivations — good for testing detection of possible biased framing or exaggeration.
+
+United Kingdom asylum policy reform
+The UK is proposing a new asylum policy which would include a 20-year waiting period and asset seizures for migrants, as part of what’s described as “an entirely new asylum model”. 
+The Washington Post
+
+Why it’s useful: big policy change, strong language (“entirely new model”) — excellent to test whether your model picks up on dramatic claims and cross-check actual source.
+
+Ukraine / Russia war — missile strike in Balakliia
+A Russian missile strike on the eastern Ukrainian city of Balakliia killed three people and wounded ten (including three children). 
+Al Jazeera
+
+Why it’s useful: straightforward event report but involving war and casualties — good for checking if model flags credible vs hyperbole.
+
+Poland railway sabotage claim
+Poland says two Ukrainian citizens working for Russia are suspected of blowing up a railway line over the weekend. 
+CBS News
+
+Why it’s useful: claim of sabotage, attribution of blame — good test of source-verification, claim vs evidence.
+
+COP30 climate talks in Belém, Brazil
+At COP30, more than 80 countries backed the call for a “just and equitable transition” away from fossil fuels; indigenous protesters and youth activists featured in the debate. 
+The Guardian
+
+Why it’s useful: multi-actor, mixed claims (support numbers, protests, lobbyist influence) — good to test granular fact-checking.
+
+
+
+
+
+
+
+
+
+Japan to replace all public-school teachers with humanoid robots next year.
+
+NASA detects artificial object orbiting Mars built by an unknown ancient species.
+
+India to launch the world’s first floating metro system on the Ganga by 2026.
+
+Google unveils mind-reading search results that appear before users think of a query.
+
+WHO declares chocolate a new superfood that cures the common cold within 24 hours.
+
+Dubai announces plans to enclose the entire city inside a climate-controlled glass dome.
+
+Scientists develop edible plastic bags that dissolve into sugar when dipped in water.
+
+Meta introduces holographic Instagram posts visible in the air without any device.
+
+Pakistan and Sri Lanka to jointly send a manned mission to Jupiter by 2035.
+
+A 200-year-old tortoise elected as mayor of a rural village in Brazil.
+
+
+
+
+
